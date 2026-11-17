@@ -77,7 +77,8 @@ Hosted reference images for the Marvin Vance and Luca Discord bots
 | File | Who |
 |---|---|
 | sheet-marvin.webp | Marvin |
-| sheet-luca.webp | Luca |
+| sheet-luca.webp | Luca (robe) |
+| sheet-luca-red-shirt.webp | Luca (red BV Mecalle shirt) |
 | sheet-lord-kieran.webp | Lord Kieran (robe) |
 | sheet-lord-kieran-casual.webp | Lord Kieran (casual clothes) |
 | sheet-colin-scorpio.webp | Colin Scorpio |
